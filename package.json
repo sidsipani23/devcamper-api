@@ -4,7 +4,7 @@
 	"description": "Backend API",
 	"main": "server.js",
 	"scripts": {
-		"start": "SET NODE_ENV=production& node server",
+		"start": "node server",
 		"dev": "nodemon server"
 	},
 	"author": "Siddhartha",
